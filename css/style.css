@@ -1,0 +1,12 @@
+    .ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-text-only.popup-btn {
+		background-color: hsl(194, 57%, 55%);
+		background-image: linear-gradient(to bottom, hsl(194, 66%, 61%), hsl(194, 59%, 45%));
+		background-repeat: repeat-x;
+		border-color: hsla(0, 0%, 0%, 0.1) hsla(0, 0%, 0%, 0.1) hsla(0, 0%, 0%, 0.25);
+		color: hsl(0, 0%, 100%);
+		text-shadow: 0 -1px 0 hsla(0, 0%, 0%, 0.25);
+    }
+    
+    .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix.ui-draggable-handle.popup-head {
+		background: none repeat scroll 0 0 hsl(194, 57%, 55%) !important;
+	}
